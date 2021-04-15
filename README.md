@@ -2,6 +2,9 @@
 
 ### About
 - Database server and client program using a socket
+  
+  https://user-images.githubusercontent.com/50474972/114882800-4accdc00-9e3f-11eb-9609-b89950424557.mp4
+
 
 
 
@@ -12,7 +15,7 @@
   save user:abcdefg
   ```
 - read `key` : send command to server (load a data which named key)
-  - if save the same key, load the last one
+  - if save a same key, load the last one
   ```
   save user:abcdefg
   save user:1234
