@@ -3,10 +3,7 @@
 ### About
 - Database server and client program using a socket
   
-  https://user-images.githubusercontent.com/50474972/114882800-4accdc00-9e3f-11eb-9609-b89950424557.mp4
-
-
-
+  ![미디어1](https://user-images.githubusercontent.com/50474972/114883122-954e5880-9e3f-11eb-8b00-dcc3cd8d52ee.gif)
 
 #### Function(Client)
 - connect `IP address` : connect to ip address's server
