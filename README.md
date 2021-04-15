@@ -7,6 +7,7 @@
 #### Function(Client)
 - connect `IP address` : connect to ip address's server
 - save `key`:`value` : send command to server (save it to database)
+
   ```
   save user:abcdefg
   ```
