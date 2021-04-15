@@ -1,6 +1,7 @@
 # Linux_Database_Server
 
 ### About
+- This is a project on 20210415
 - Database server and client program using a socket
   
   ![미디어1](https://user-images.githubusercontent.com/50474972/114883122-954e5880-9e3f-11eb-8b00-dcc3cd8d52ee.gif)
